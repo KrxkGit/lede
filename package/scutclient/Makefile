@@ -19,8 +19,8 @@ PKG_VERSION:=3.1.3
 PKG_RELEASE:=1
 
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=https://github.com/scutclient/scutclient.git
-#PKG_SOURCE_URL:=https://github.com/KrxkGit/scutclient.git
+#PKG_SOURCE_URL:=https://github.com/scutclient/scutclient.git
+PKG_SOURCE_URL:=https://github.com/KrxkGit/scutclient.git
 
 PKG_SOURCE_VERSION:=v$(PKG_VERSION)
 PKG_SOURCE_SUBDIR:=$(PKG_NAME)-$(PKG_VERSION)
